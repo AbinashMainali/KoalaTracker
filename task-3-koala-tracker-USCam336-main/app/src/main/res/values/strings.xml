@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Koala Tracker</string>
+    <string name="koala_title_hint">Enter a short description.</string>
+    <string name="koala_title_label">Title</string>
+    <string name="place_detail_hint">Enter the location name.</string>
+    <string name="place_title_label">Place</string>
+    <string name="gps_label">GPS Location</string>
+    <string name="show_gps">Show Map</string>
+    <string name="image_button">Take Photo</string>
+    <string name="share_button">Share</string>
+    <string name="new_koalaVisit">New KoalaVisit</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key">AIzaSyCyyic_F7LLgxSuFbs0AKBVyFOhMBJrI9w</string>
+    <string name="koala_report">%1$s!
+        The koala was spotted on %2$s. at %3$s
+    </string>
+    <string name="koala_report_subject">Koala Visit Report</string>
+    <string name="send_report">Send Koala Visit Report Via</string>
+    <string name="help">Help</string>
+    <string name="delete_item_here">Delete</string>
+
+</resources>
